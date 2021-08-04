@@ -33,7 +33,7 @@ In this project you will be evaluated on several topics:
 
 | Name | Surname | User title | Date | In time | Out time | Inside times | Total worked time |
 |-|-|-|-|-|-|-|-|
-*aaa
+|aa| 
 
 3. Create 2 graphs in ../Views/Graph/Index.cshtml, 
 * First graph shows individual worker total worked time (X axis - name, surname, Y axis - total worked time),
