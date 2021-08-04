@@ -17,17 +17,18 @@ In this project you will be evaluated on several topics:
 
 1. Create a table in ../Views/User/Index.cshtml, 
 * populate it with users data from the database,
-* create a table filter input,
+* create a table filter text field,
+* create a drop-down filter by User Title,
 * make table sortable (if I click on column Name, table should be sorted alphabetically [A-Z] or vice-versa [Z-A]
 * Table should have columns: 
 
 | Name | Surname | User Title |
-|-|-|-|
+|Vardenis|Pavardenis|Foreman|
 
 2. Create a table in ../Views/Time/Index.cshtml, 
 * determine how much time user worked in a day (formula: In/Out time difference - 1 hour, hh.mm precision),
 * populate it with relevant times data from the database,
-* create a table filter input,
+* create a table filter text field,
 * make table sortable (if I click on column Name, table should be sorted alphabetically [A-Z] or vice-versa [Z-A] or if click on Total worked time- sorted min-max or max-min,
 * Table should have columns: 
 
@@ -47,6 +48,7 @@ In this project you will be evaluated on several topics:
 ## Remark
 
 For frontend development, you can even use React, Vue, Angular or any other frameworks, libraries, etc.
+If you need helper classes, additional packages, add them.
 Then you are done, create a new repo and send the link to povilas.pockevicius@peikko.com or pockeviciuspovilas@gmail.com
 
 If you have questions about tasks or any other problems, feel free to ask me. Good luck! 
