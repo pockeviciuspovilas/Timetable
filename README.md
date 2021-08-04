@@ -23,6 +23,7 @@ In this project you will be evaluated on several topics:
 * Table should have columns: 
 
 | Name | Surname | User Title |
+|-|-|-|
 |Vardenis|Pavardenis|Foreman|
 
 2. Create a table in ../Views/Time/Index.cshtml, 
