@@ -12,7 +12,7 @@ In this project you will be evaluated on several topics:
 ## Tasks
 
 1. Create a table in ../Views/User/Index.cshtml, 
--- populate it with users data from the database,
+* populate it with users data from the database,
 -- create a table filter input,
 -- make table sortable (if I click on column Name, table should be sorted alphabetically [A-Z] or vice-versa [Z-A]
 -- Table should have columns: 
