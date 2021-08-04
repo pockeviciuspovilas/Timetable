@@ -8,6 +8,9 @@ In this project you will be evaluated on several topics:
 ## Some info to begin if
 - Architecture- MVC (Model-View-Controller)
 - Database- [ Microsoft SQL Server Express LocalDB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15), please, be prepared to install it
+- Models with context location: ../Models
+- Views location: ../Views
+- Controllers location: ../Controllers
 
 ## Tasks
 
